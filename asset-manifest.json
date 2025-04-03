@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dabs-explorer/static/css/main.8ceba598.css",
+    "main.js": "/dabs-explorer/static/js/main.1dcb4691.js",
+    "static/js/453.2da320ed.chunk.js": "/dabs-explorer/static/js/453.2da320ed.chunk.js",
+    "index.html": "/dabs-explorer/index.html",
+    "main.8ceba598.css.map": "/dabs-explorer/static/css/main.8ceba598.css.map",
+    "main.1dcb4691.js.map": "/dabs-explorer/static/js/main.1dcb4691.js.map",
+    "453.2da320ed.chunk.js.map": "/dabs-explorer/static/js/453.2da320ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ceba598.css",
+    "static/js/main.1dcb4691.js"
+  ]
+}
